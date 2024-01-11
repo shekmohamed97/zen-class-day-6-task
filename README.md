@@ -1,1 +1,1 @@
-Hi i will show on to the class methode examples.and ,1.code  writing to movie datils and ,2. is writing to the circle crating and ,3.is writing to the person details and last is 4. calculate the uber  price .thats all   
+Hi i will show on to the class methode examples.and ,1.code  writing to movie datails and ,2. is writing to the ceircle creating and ,3.is writing to the person details and last is 4. calculate the uber  price .thats all   
